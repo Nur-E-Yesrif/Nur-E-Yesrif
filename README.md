@@ -14,13 +14,14 @@
 - 🏆 Goal: Become a **Full-Stack Developer** & contribute to impactful projects  
 
 
+
 🛠️ Tech Stack
-💻 Programming Languages
-C C++ Python JavaScript
+    💻 Programming Languages
+       C C++ Python JavaScript
 
-🌐 Web Development
-HTML CSS JavaScript
+   🌐 Web Development
+      HTML CSS JavaScript
 
-🛠 Tools & Platforms
-GitHub VS Code Windows
+  🛠 Tools & Platforms
+     GitHub VS Code Windows
 
