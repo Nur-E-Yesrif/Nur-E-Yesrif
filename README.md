@@ -71,3 +71,30 @@
   </a>
 
 </p>
+
+
+## 💻 Projects & Games
+
+### 🐍 Snake Game
+
+A classic console-based Snake Game developed in **C++**. Control the snake, collect food, increase your score, and avoid collisions.
+
+<p align="left">
+  <img src="Screenshots/snake-game.png" width="500"/>
+</p>
+
+🔗 **GitHub Repository:**  
+https://github.com/Nur-E-Yesrif/Snake-Game
+
+---
+
+### 🚗 Car Racing Game
+
+A simple yet exciting **C++ Car Racing Game** where players dodge enemy cars, survive as long as possible, and achieve the highest score.
+
+<p align="left">
+  <img src="Screenshots/car-racing-game.png" width="500"/>
+</p>
+
+🔗 **GitHub Repository:**  
+https://github.com/Nur-E-Yesrif/Car-Racing-Game
