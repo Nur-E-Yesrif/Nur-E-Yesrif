@@ -62,7 +62,7 @@
     <img src="https://img.icons8.com/color/96/gmail-new.png" width="55" />
   </a>
   
-  <a href="https://www.instagram.com/nureyesrif/?hl=en">
+  <a href="https://www.instagram.com/nureyesrif/">
     <img src="https://skillicons.dev/icons?i=instagram" width="55" />
   </a>
 
