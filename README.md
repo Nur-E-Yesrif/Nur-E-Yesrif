@@ -72,7 +72,7 @@
 
 </p>
 
-<a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/" target="_blank">
+<a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/" >
   <img src="https://img.icons8.com/color/96/linkedin.png" width="55" />
 </a>
 
