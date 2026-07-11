@@ -51,49 +51,39 @@
 
 ---
 
-<!-- Optional: Feel free to add stats, contributions, or pinned projects section here -->
+<!-- Optional: Feel free to add stats, contributions, or pinned projects section here --
 
 
-## 📫 Connect with Me
+
+
+<h2>📫 Connect with Me</h2>
 
 <p align="center">
-
-   <a href="mailto:nureyesrifsamia@gmail.com">
+  <a href="mailto:nureyesrifsamia@gmail.com">
     <img src="https://img.icons8.com/color/96/gmail-new.png" width="55" />
   </a>
-  
+
   <a href="https://www.instagram.com/nureyesrif/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="55" />
+    <img src="https://img.icons8.com/color/96/instagram-new.png" width="55" />
   </a>
 
   <a href="https://www.facebook.com/nur.e.yesrif.samia/">
     <img src="https://img.icons8.com/color/96/facebook-new.png" width="55" />
   </a>
 
-</p>
-
-<a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/" >
-  <img src="https://img.icons8.com/color/96/linkedin.png" width="55" />
-</a>
-
-
-<h2>📫 Connect with Me</h2>
-
-<p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="55" />
-  </a>
-
-  <a href="https://www.instagram.com/your_username/">
-    <img src="https://img.icons8.com/color/96/instagram-new.png" width="55" />
-  </a>
-
-  <a href="https://www.facebook.com/your_username/">
-    <img src="https://img.icons8.com/color/96/facebook-new.png" width="55" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/your_username/">
+  <a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/">
     <img src="https://img.icons8.com/color/96/linkedin.png" width="55" />
   </a>
 </p>
+
+
+
+  
+ 
+
+
+
+
+
+
 
