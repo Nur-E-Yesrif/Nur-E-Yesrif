@@ -56,25 +56,6 @@
 
 
 
-<h2>📫 Connect with Me</h2>
-
-<p align="center">
-  <a href="mailto:nureyesrifsamia@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="55" />
-  </a>
-
-  <a href="https://www.instagram.com/nureyesrif/">
-    <img src="https://img.icons8.com/color/96/instagram-new.png" width="55" />
-  </a>
-
-  <a href="https://www.facebook.com/nur.e.yesrif.samia/">
-    <img src="https://img.icons8.com/color/96/facebook-new.png" width="55" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="55" />
-  </a>
-</p>
 
 
 
