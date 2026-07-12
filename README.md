@@ -58,15 +58,25 @@
 
 <!-- Optional: Feel free to add stats, contributions, or pinned projects section here -->
 
-## 📫 Connect with Me
+<h2 align="center">📫 Connect with Me</h2>
 
-📧 **Email:** <a href="mailto:nureyesrifsamia@gmail.com">nureyesrifsamia@gmail.com</a>
+<p align="center">
+  <a href="mailto:nureyesrifsamia@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
+  </a>
 
-📘 **Facebook:** <a href="https://www.facebook.com/nur.e.yesrif.samia/">Nur-E-Yesrif Samia</a>
+  <a href="https://www.facebook.com/nur.e.yesrif.samia/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
+  </a>
 
-📷 **Instagram:** <a href="https://www.instagram.com/nureyesrif/">@nureyesrif</a>
+  <a href="https://www.instagram.com/nureyesrif/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
 
-💼 **LinkedIn:** <a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/">Nur-E-Yesrif Samia</a>
+  <a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
 
 
 
