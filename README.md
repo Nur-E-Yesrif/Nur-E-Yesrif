@@ -58,25 +58,29 @@
 
 <!-- Optional: Feel free to add stats, contributions, or pinned projects section here -->
 
-<h2 align="center">📫 Connect with Me</h2>
+---
+
+## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:nureyesrifsamia@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
-  </a>
-
-  <a href="https://www.facebook.com/nur.e.yesrif.samia/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
-  </a>
-
-  <a href="https://www.instagram.com/nureyesrif/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" alt="Gmail"/>
   </a>
 
   <a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="50" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.instagram.com/nureyesrif/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="50" alt="Instagram"/>
+  </a>
+
+  <a href="https://www.facebook.com/nur.e.yesrif.samia/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="50" alt="Facebook"/>
   </a>
 </p>
+
+---
 
 
 
