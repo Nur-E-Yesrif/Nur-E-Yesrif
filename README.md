@@ -58,25 +58,15 @@
 
 <!-- Optional: Feel free to add stats, contributions, or pinned projects section here -->
 
-<h2 align="center">📫 Connect with Me</h2>
+## 📫 Connect with Me
 
-<p align="center">
-  <a href="mailto:nureyesrifsamia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+📧 **Email:** <a href="mailto:nureyesrifsamia@gmail.com">nureyesrifsamia@gmail.com</a>
 
-  <a href="https://www.facebook.com/nur.e.yesrif.samia/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+📘 **Facebook:** <a href="https://www.facebook.com/nur.e.yesrif.samia/">Nur-E-Yesrif Samia</a>
 
-  <a href="https://www.instagram.com/nureyesrif/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+📷 **Instagram:** <a href="https://www.instagram.com/nureyesrif/">@nureyesrif</a>
 
-  <a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/">Nur-E-Yesrif Samia</a>
 
 
 
