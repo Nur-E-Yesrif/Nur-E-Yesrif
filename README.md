@@ -51,22 +51,26 @@
 
 ---
 
-<!-- Optional: Feel free to add stats, contributions, or pinned projects section here --
+<!-- Optional: Feel free to add stats, contributions, or pinned projects section here -->
 
 
+---
+
+<!-- Optional: Feel free to add stats, contributions, or pinned projects section here -->
 
 <h2 align="center">📫 Connect with Me</h2>
+
 <p align="center">
   <a href="mailto:nureyesrifsamia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/nureyesrif/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
   <a href="https://www.facebook.com/nur.e.yesrif.samia/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/nureyesrif/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/">
@@ -75,14 +79,7 @@
 </p>
 
 
-<h2 align="center">📫 Connect with Me</h2>
 
-<p align="center">
-  📧 <a href="mailto:nureyesrifsamia@gmail.com">Email</a> &nbsp;|&nbsp;
-  📘 <a href="https://www.facebook.com/nur.e.yesrif.samia/">Facebook</a> &nbsp;|&nbsp;
-  📷 <a href="https://www.instagram.com/nureyesrif/">Instagram</a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/">LinkedIn</a>
-</p>
 
 
   
