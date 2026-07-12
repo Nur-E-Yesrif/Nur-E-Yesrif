@@ -50,7 +50,12 @@
 </p>
 
 
+---
 
+<!-- Optional: Feel free to add stats, contributions, or pinned projects section here -->
+
+
+---
 
 
 ## 📫 Connect with Me
