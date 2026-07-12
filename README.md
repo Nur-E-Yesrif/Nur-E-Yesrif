@@ -75,6 +75,16 @@
 </p>
 
 
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  📧 <a href="mailto:nureyesrifsamia@gmail.com">Email</a> &nbsp;|&nbsp;
+  📘 <a href="https://www.facebook.com/nur.e.yesrif.samia/">Facebook</a> &nbsp;|&nbsp;
+  📷 <a href="https://www.instagram.com/nureyesrif/">Instagram</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/nur-e-yesrif-samia-744889421/">LinkedIn</a>
+</p>
+
+
   
  
 
